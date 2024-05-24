@@ -22,7 +22,7 @@ A responsive weather application that retrieves and displays current weather dat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/subomb/weather-app.git
 
 2. Navigate to the project directory:
    ```bash
